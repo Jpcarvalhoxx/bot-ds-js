@@ -19,6 +19,7 @@ Created to play You Tube music through the Discord platform.
 - [NPM](https://www.npmjs.com/)
 - [FFMPEG](https://www.ffmpeg.org/)
 - [KEY_GOOGLE](https://developers.google.com/youtube/registering_an_application?hl=pt-br)
+- [Discord bot token](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications)
 
 ### Configuration
 
