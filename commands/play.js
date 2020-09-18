@@ -3,7 +3,7 @@ const { Util, RichEmbed } = require('discord.js');
 const ferramenta = require('../ferramenta/ferramenta');
 const ytdl = require("ytdl-core");
 const YouTube = require("discord-youtube-api");
-const youtube = new YouTube("AIzaSyDk8q8AbO18ldW4jxhEsV3Eghpd9r7bd7w");
+const youtube = new YouTube("YOUR YOUTUBE KEY");
 const embed = new RichEmbed();
 
 
